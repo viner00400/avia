@@ -1,0 +1,15 @@
+@import "./styles/varaible.css";
+@import "./styles/header.css";
+@import "./styles/breadcrums.css";
+@import "./styles/main.css";
+@import "./styles/footer.css";
+body {
+  font-family: "Montserrat Alternates", sans-serif;
+  margin: 0;
+}
+.conteiner {
+  width: 100%;
+  max-width: 1420px;
+  margin-left: auto;
+  margin-right: auto;
+}
